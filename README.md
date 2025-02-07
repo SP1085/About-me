@@ -1,24 +1,26 @@
-👋 Hello! Welcome to My Profile
+# 👾 CyberKitty404  
 
-🧑‍🎓 Education
+🎓 **B.S. Computer Science | M.S. Information Technology**  
+📊 **10+ years working with healthcare data & cloud systems**  
 
-	•	🎓 Bachelor’s Degree in Computer Science from Kasetsart University
-	•	🎓 Master’s Degree in Information Technology from Sripatum University
+## 👨‍💻 About Me  
+Hi! I'm **CyberKitty404**, and I love learning about **web development, IoT, and data analytics**.  
+I enjoy working with **PHP, Arduino, and cloud-based applications** to create useful tools.  
 
-💻 Interests
+## 🔧 What I Work With  
+- **Web Development** → PHP, JavaScript, HTML/CSS  
+- **IoT & Arduino** → Arduino, ESP32, Sensors, Cloud Integration  
+- **Data Analytics** → Python, Pandas, Excel, Basic Machine Learning  
+- **Windows Applications** → C#, .NET, AppSheet  
 
-	•	Exploring new No Code tools for application development
-	•	Designing UX/UI for multi-device accessibility
-	•	Web Application Development: I’m passionate about building websites with engaging, user-friendly, and accessible UI/UX across all platforms
-	•	No Code & Low Code Development: Interested in developing applications and tools without extensive coding, allowing for quick development and iteration
-	•	Automation & Productivity: Enthusiastic about using tools and technology to enhance productivity and automate processes
+## 🎯 What I'm Learning  
+- How to use **machine learning** for data insights  
+- Connecting **IoT devices to cloud databases**  
+- Improving my **web development skills**  
 
-🛠️ Skills
+## 📫 Contact Me  
+- 🔗 GitHub: [github.com/CyberKitty404](https://github.com/CyberKitty404)  
+- 💼 LinkedIn: [linkedin.com/in/CyberKitty404](https://linkedin.com/in/sanpath-sunggad-542985181)  
+- 📧 Email: cyberkitty404@example.com  
 
-	•	Frontend Development: HTML, CSS, JavaScript
-	•	No Code Platforms: AppSheet, Airtable
-	•	Version Control: Git & GitHub
-
-📫 Contact Me
-
-	•	Email: sanpath.su@gmail.com
+🐱 _Just a developer learning new things every day!_ 🚀  
