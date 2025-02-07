@@ -18,9 +18,4 @@ I enjoy working with **PHP, Arduino, and cloud-based applications** to create us
 - Connecting **IoT devices to cloud databases**  
 - Improving my **web development skills**  
 
-## 📫 Contact Me  
-- 🔗 GitHub: [github.com/CyberKitty404](https://github.com/CyberKitty404)  
-- 💼 LinkedIn: [linkedin.com/in/sanpath-sunggad-542985181](https://linkedin.com/in/sanpath-sunggad-542985181)  
-- 📧 Email: sanpath.su@gmail.com  
-
 🐱 _Just a developer learning new things every day!_ 🚀  
