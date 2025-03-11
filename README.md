@@ -1,11 +1,4 @@
-# 👾 CyberKitty404  
-
-🎓 **B.S. Computer Science | M.S. Information Technology**  
-📊 **10+ years working with healthcare data & cloud systems**  
-
-## 👨‍💻 About Me  
-Hi! I'm **CyberKitty404**, and I love learning about **web development, IoT, and data analytics**.  
-I enjoy working with **PHP, Arduino, and cloud-based applications** to create useful tools.  
+# 👾 SP1085  
 
 ## 🔧 What I Work With  
 - **Web Development** → PHP, JavaScript, HTML/CSS  
