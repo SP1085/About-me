@@ -73,9 +73,4 @@
 
 ---
 
-
-3. **Update any missing tools or interests** as needed.  
-
----
-
 **Thanks for stopping by!** 😊 Feel free to explore my repos and connect with me! 🚀
